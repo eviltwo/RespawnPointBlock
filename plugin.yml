@@ -1,0 +1,10 @@
+name: RespawnPointBlock
+main: com.eviltwo.rpb.RPB
+version: 1.0.0
+
+#commands:
+#   rpb:
+#      description: This is a "Respawn Point Block" plugin command.
+#      usage: /<command> <test>...
+#      permission: rpb.admin
+#      permission-message: You don't have <permission>

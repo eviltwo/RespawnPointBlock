@@ -1,0 +1,7 @@
+# RespawnPointBlock config
+
+blockName: 'DIAMOND_BLOCK'
+enableDisplayText: true
+displayText: 'Check point!'
+enableSound: true
+soundName: 'ENTITY_ARROW_HIT_PLAYER'
